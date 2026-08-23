@@ -1,0 +1,14 @@
+openai-whisper
+faster-whisper
+chatterbox-tts
+torch
+torchaudio
+google-generativeai
+fastapi
+uvicorn
+websockets
+python-multipart
+sounddevice
+pydub
+numpy
+python-dotenv

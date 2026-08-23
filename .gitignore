@@ -1,0 +1,19 @@
+# API keys - never upload
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Audio files - too large
+outputs/
+audio_samples/
+
+# Virtual environment
+venv/
+env/
+
+# Model downloads - several GB, don't push to GitHub
+.cache/
